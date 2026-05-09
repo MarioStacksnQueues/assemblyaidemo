@@ -1,0 +1,44 @@
+# Secrets - NEVER commit these
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Audio captures from local demo runs
+*.wav
+*.mp3
+*.flac
+recorded_audio_*
+
+# Java build artifacts
+*.class
+*.jar
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS
+Thumbs.db
+desktop.ini

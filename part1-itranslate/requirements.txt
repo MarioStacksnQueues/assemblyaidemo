@@ -1,0 +1,11 @@
+# Core dependencies for AAI Universal-3 Pro Streaming demo.
+# Pinned to current stable releases (May 2026) for reproducibility.
+websockets>=14.0
+sounddevice>=0.4.6
+numpy>=1.26.0
+python-dotenv>=1.0.0
+
+# Used only when --enable-translation or --enable-tts is passed.
+# Installed unconditionally to keep setup a single `pip install -r` step.
+openai>=1.30.0
+elevenlabs>=1.5.0

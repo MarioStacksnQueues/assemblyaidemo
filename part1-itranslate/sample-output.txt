@@ -1,0 +1,8 @@
+Microphone: Microphone Array (Realtek(R) Au (idx 1)
+Connecting to AssemblyAI Universal-3 Pro Streaming...
+Speak now. Press Ctrl+C to stop.
+
+[session] Begin id=31e3aead-6d6d-4509-9771-ad93c4780e94
+[TURN] This is Mario testing the AssemblyAI Universal 3 Pro streaming demo for the take-home submission. Court interpreters need accurate transcription in real time.
+
+[shutdown] bye
