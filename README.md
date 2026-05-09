@@ -63,14 +63,6 @@ Walk-through of the bug fix and the demo, FDE-mindset narrative, ~4:30 total.
 
 Link: https://www.loom.com/share/5ac9d46b29e14d35889b6de1cec0a986
 
-## Time spent
-
-About 3.5 hours of focused work, inside the 24-hour window.
-
-## Time NOT spent
-
-I did not implement reconnect logic in `demo.py`, did not stand up a Streamlit UI, and did not negotiate AssemblyAI Enterprise pricing in the customer email. Each is called out in the relevant doc as deferred and out of scope for the take-home.
-
 ## Notes for the reviewer
 
 Honest disclaimers, in case they matter:
